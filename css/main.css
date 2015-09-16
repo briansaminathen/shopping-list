@@ -1,14 +1,9 @@
-div {
-	
-	outline: red 1px solid;
-
-
-}
-
-.main {
-	margin: 0 auto;
-	margin-top: 25px;
-	width: 500px;
-	height: 500px;
-	background-color: #F0F0F0;
+.shoppinglist-container {
+  width: 19em;
+  margin: 0 auto;
+  margin-top: 1em;
+  padding-bottom: 13em;
+  background-color: #F8F8F8;
+  border: 1px solid #E0E0E0; 
+  text-align: center;
 }
