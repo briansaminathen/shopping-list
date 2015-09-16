@@ -1,6 +1,6 @@
 function addListItem() {
   var text = $("#item").val();
-  alert(text);
+  $('#addMore').append('<li>'+text+'</li>');
 };
 
 $(function(){
